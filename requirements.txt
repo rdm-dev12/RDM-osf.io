@@ -32,7 +32,7 @@ blinker==1.4
 furl==0.4.92
 elasticsearch==2.4.0  # pyup: >=2.4,<3.0 # Major version must be same as ES version
 google-api-python-client==1.6.4
-Babel==2.5.1
+Babel==2.9.1
 citeproc-py==0.4.0
 boto3==1.4.7
 django-waffle==0.13.0
